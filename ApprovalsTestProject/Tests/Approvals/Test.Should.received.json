@@ -1,0 +1,22 @@
+﻿[
+    {
+        "FirstName": "Victor",
+        "SecondName": "Boo",
+        "Email": "1@gmail.com",
+        "DateOfBirth": "1995-10-25T00:00:00",
+        "Company": "test1",
+        "ID": "3f046e88-4bea-486b-9191-050546d3b42a",
+        "Salary": -2147483648,
+        "NumberOfHolidays": 24
+    },
+    {
+        "FirstName": "Victor",
+        "SecondName": "Boo",
+        "Email": "1@gmail.com",
+        "DateOfBirth": "1995-10-25T00:00:00",
+        "Company": "test1",
+        "ID": "bd421bf0-1710-4eb6-8a99-6aa466f78e45",
+        "Salary": 20000,
+        "NumberOfHolidays": 24
+    }
+]

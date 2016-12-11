@@ -1,0 +1,5 @@
+F:\Downloads\Job\TestTechnologies\ApprovalsTestProject\ApprovalsTestProject\bin\Debug\ApprovalsTestProject.exe.config
+F:\Downloads\Job\TestTechnologies\ApprovalsTestProject\ApprovalsTestProject\bin\Debug\ApprovalsTestProject.exe
+F:\Downloads\Job\TestTechnologies\ApprovalsTestProject\ApprovalsTestProject\bin\Debug\ApprovalsTestProject.pdb
+F:\Downloads\Job\TestTechnologies\ApprovalsTestProject\ApprovalsTestProject\obj\Debug\ApprovalsTestProject.exe
+F:\Downloads\Job\TestTechnologies\ApprovalsTestProject\ApprovalsTestProject\obj\Debug\ApprovalsTestProject.pdb
